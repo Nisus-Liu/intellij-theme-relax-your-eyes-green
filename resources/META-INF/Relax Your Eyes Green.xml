@@ -513,6 +513,5 @@
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
-  <!--<option name="CONSOLE_FONT_SIZE" value="16" />-->
   <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>

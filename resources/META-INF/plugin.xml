@@ -28,7 +28,10 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-    Initial release of the theme.
+    <ul>
+        <li>EDITOR_LIGATURES enable</li>
+        <li>LINE_SPACING 1.0 -> 1.2</li>
+    </ul>
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
