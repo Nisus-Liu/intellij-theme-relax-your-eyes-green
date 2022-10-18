@@ -1,6 +1,4 @@
 <scheme name="Relax Your Eyes Green" version="1" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="16" />
@@ -511,4 +509,10 @@
       </value>
     </option>
   </attributes>
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <!--<option name="CONSOLE_FONT_SIZE" value="16" />-->
+  <option name="CONSOLE_LIGATURES" value="true" />
 </scheme>
